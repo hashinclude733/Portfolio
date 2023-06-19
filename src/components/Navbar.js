@@ -2,7 +2,11 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
+<<<<<<< HEAD
 import logo from "../Assets/Nikhilesh1.png";
+=======
+import logo from "../Assets/IMG.jpg";
+>>>>>>> ee399f9094ebcae7ecab48faf80d5dbd88722f63
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
